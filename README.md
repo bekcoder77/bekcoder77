@@ -21,6 +21,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ## ⚡ Technologies
 
+
 ![Image](	https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Image](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
