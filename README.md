@@ -1,6 +1,6 @@
 <h1 align="center"> Front End Developer </h1>
 
-## Hi hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
   I am a Front End developer </br>
 
@@ -20,7 +20,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
-
 
 ![Image](	https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
