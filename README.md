@@ -1,6 +1,6 @@
 <h1 align="center"> Front End Developer </h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
   I am a Front End developer </br>
 
