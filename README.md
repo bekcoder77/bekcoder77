@@ -10,7 +10,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-otabek_xalimov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otabek-xalimov-5791a2271/)](https://www.linkedin.com/in/otabek-xalimov-5791a2271) 
 [![Telegram Badge](https://img.shields.io/badge/otabek_xalimov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ferghana_user07)](https://t.me/ferghana_user07) 
-![Instagram Badge](https://img.shields.io/badge/@otabek_xalimov-FF0004?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/otabek777____/)
+
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
